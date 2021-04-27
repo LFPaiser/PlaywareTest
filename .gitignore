@@ -27,4 +27,4 @@
 !RainingDays/RawContent/**/*
 
 #RainingDays repo specific directories
-!/Dev
+!/Dev/**

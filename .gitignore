@@ -11,6 +11,11 @@
 # Do not ignore current project's `.uproject`.
 !RainingDays/*.uproject
 
+#One time upload of auxiliary files
+!Créditos.pdf
+!README.md
+!/Guidelines/**
+
 # Do not ignore source, config and plugins dirs.
 !RainingDays/Source/**
 !RainingDays/Config/**
